@@ -1,0 +1,15 @@
+artifact_uri: file:///R:/House-Prices-Prediction/mlruns/0/3a861568d5fd4f48994ad5465b1ec06f/artifacts
+end_time: 1734982126816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a861568d5fd4f48994ad5465b1ec06f
+run_name: merciful-seal-83
+run_uuid: 3a861568d5fd4f48994ad5465b1ec06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734982120548
+status: 3
+tags: []
+user_id: ASUS
