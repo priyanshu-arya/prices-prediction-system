@@ -149,6 +149,9 @@ The pipeline consists of the following key steps:
 
 ## Steps in the Pipeline
 
+![Screenshot 2024-12-24 010040](https://github.com/user-attachments/assets/187ee207-9521-4316-8722-44592ccfe5b4)
+
+
 ### 1. Data Ingestion
 
 ```python
